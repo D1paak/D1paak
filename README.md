@@ -55,6 +55,16 @@ I care about clear interfaces, thoughtful interactions, and the small details th
       <p><a href="https://github.com/D1paak/DiNotch">Explore the project ↗</a> &nbsp; / &nbsp; <a href="https://d1paak.github.io/DiNotch/">Visit the website ↗</a></p>
     </td>
   </tr>
+  <tr>
+    <td width="88" align="center">
+      <a href="https://dinginproject.my.id/"><img src="https://dinginproject.my.id/assets/favicon-blue.svg?v=6" width="64" alt="Dingin Project logo" /></a>
+    </td>
+    <td>
+      <h3><a href="https://dinginproject.my.id/">Dingin Project</a></h3>
+      <p>A collection of practical web tools for media editing, file conversion, image processing, PDFs, and everyday digital tasks. Free to use, with no account required.</p>
+      <p><a href="https://dinginproject.my.id/">Visit the website ↗</a> &nbsp; / &nbsp; <a href="https://dinginproject.my.id/tools">Explore the tools ↗</a></p>
+    </td>
+  </tr>
 </table>
 
 <br />
@@ -82,5 +92,3 @@ I care about clear interfaces, thoughtful interactions, and the small details th
   <a href="https://www.instagram.com/rz.dipa/"><img src="https://img.shields.io/badge/Instagram-16232E?style=for-the-badge&amp;logo=instagram&amp;logoColor=67E8C6" alt="Instagram" /></a>
   <a href="mailto:ichdip20jp8@gmail.com"><img src="https://img.shields.io/badge/Email-16232E?style=for-the-badge&amp;logo=gmail&amp;logoColor=79C8FF" alt="Email" /></a>
 </p>
-
-<p align="center"><sub><a href="mailto:ichdip20jp8@gmail.com">ichdip20jp8@gmail.com</a></sub></p>
